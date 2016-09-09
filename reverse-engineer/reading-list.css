@@ -21,6 +21,7 @@ time, mark, audio, video {
 body {
     background-color: #0B2842;
     background-image:url(http://practice-pixels.s3.amazonaws.com/texture-blue.jpg);
+	font-size: 62.5%;
 	}
 
 #container {
