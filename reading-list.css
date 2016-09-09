@@ -1,0 +1,83 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+
+body {
+    background-color: #0B2842;
+    background-image:url(http://practice-pixels.s3.amazonaws.com/texture-blue.jpg);
+	}
+
+#container {
+	background-color: #ffffff;
+	width: 750px;
+	margin: 50px auto;
+	border-radius: 5px;
+	padding: 15px 25px 5px 25px;
+}
+
+h1, h2, h3, a {
+	font-family: Helvetica;
+}
+
+header {
+	text-align: center;
+}
+
+header a {
+	color: #000000;
+}
+
+p {
+	font-family: georgia;
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+footer p {
+	font-family: Helvetica;
+	text-align: center; 
+}
+
+a, h1 {
+	color: #D42A1D;
+}
+
+section a {
+	font-size: 1rem;
+}
+
+h1 {
+	font-size: 2rem;
+	margin: 0;
+}
+
+h2 {
+	
+	font-size: 1.25rem;
+}
+
+h3 {
+	font-style: oblique;
+	font-size: 1.05rem;
+}
+
+section {
+	background-color: #EEEEEE;
+	padding: 10px;
+}
